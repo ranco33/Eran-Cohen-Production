@@ -1,0 +1,43 @@
+
+.bigFont {
+font-size: 50px;
+font-family: Marker Felt, fantasy;
+}
+
+.fonty {
+font-family: arial;
+	color:red;
+}
+
+.hotnews {
+ color:white;
+ font-size : 20px; 
+ font-family: arial;
+}
+
+.connect {
+	color:red ;
+	
+}
+
+a {
+color:Gray;
+}
+
+
+#page {
+  background-color: white;
+  font-family: Marker Felt, fantasy;
+  color: black;
+  padding: 20px;
+  font-size: 55px;
+}
+
+a {text-decoration: none;
+ }
+ 
+ img {
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
